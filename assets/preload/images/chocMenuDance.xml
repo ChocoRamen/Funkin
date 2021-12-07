@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="Choc menu dance.png"><SubTexture name="Choc menu dance idle0000" x="0" y="0" width="488" height="568" frameX="0" frameY="0" frameWidth="488" frameHeight="568" />
+<SubTexture name="Choc menu dance idle0001" x="488" y="0" width="488" height="568" frameX="0" frameY="0" frameWidth="488" frameHeight="568" />
+<SubTexture name="Choc menu dance idle0002" x="976" y="0" width="488" height="568" frameX="0" frameY="0" frameWidth="488" frameHeight="568" />
+<SubTexture name="Choc menu dance idle0003" x="1464" y="0" width="488" height="568" frameX="0" frameY="0" frameWidth="488" frameHeight="568" />
+<SubTexture name="Choc menu dance idle0004" x="1952" y="0" width="488" height="568" frameX="0" frameY="0" frameWidth="488" frameHeight="568" />
+<SubTexture name="Choc menu dance idle0005" x="0" y="568" width="488" height="568" frameX="0" frameY="0" frameWidth="488" frameHeight="568" />
+<SubTexture name="Choc menu dance idle0006" x="488" y="568" width="488" height="568" frameX="0" frameY="0" frameWidth="488" frameHeight="568" />
+<SubTexture name="Choc menu dance idle0007" x="976" y="568" width="488" height="568" frameX="0" frameY="0" frameWidth="488" frameHeight="568" />
+<SubTexture name="Choc menu dance idle0008" x="1464" y="568" width="488" height="568" frameX="0" frameY="0" frameWidth="488" frameHeight="568" />
+<SubTexture name="Choc menu dance idle0009" x="1952" y="568" width="488" height="568" frameX="0" frameY="0" frameWidth="488" frameHeight="568" />
+<SubTexture name="Choc menu dance idle0010" x="0" y="1136" width="488" height="568" frameX="0" frameY="0" frameWidth="488" frameHeight="568" />
+<SubTexture name="Choc menu dance idle0011" x="488" y="1136" width="488" height="568" frameX="0" frameY="0" frameWidth="488" frameHeight="568" />
+<SubTexture name="Choc menu dance idle0012" x="976" y="1136" width="488" height="568" frameX="0" frameY="0" frameWidth="488" frameHeight="568" />
+<SubTexture name="Choc menu dance idle0013" x="1464" y="1136" width="488" height="568" frameX="0" frameY="0" frameWidth="488" frameHeight="568" />
+<SubTexture name="Choc menu dance idle0014" x="1952" y="1136" width="533" height="620" frameX="0" frameY="0" frameWidth="533" frameHeight="620" />
+<SubTexture name="Choc menu dance idle0015" x="0" y="1756" width="488" height="568" frameX="0" frameY="0" frameWidth="488" frameHeight="568" />
+<SubTexture name="Choc menu dance idle0016" x="488" y="1756" width="488" height="568" frameX="0" frameY="0" frameWidth="488" frameHeight="568" />
+<SubTexture name="Choc menu dance idle0017" x="976" y="1756" width="488" height="568" frameX="0" frameY="0" frameWidth="488" frameHeight="568" />
+<SubTexture name="Choc menu dance idle0018" x="1464" y="1756" width="488" height="568" frameX="0" frameY="0" frameWidth="488" frameHeight="568" />
+<SubTexture name="Choc menu dance idle0019" x="1952" y="1756" width="488" height="568" frameX="0" frameY="0" frameWidth="488" frameHeight="568" />
+<SubTexture name="Choc menu dance idle0020" x="0" y="2324" width="488" height="568" frameX="0" frameY="0" frameWidth="488" frameHeight="568" />
+<SubTexture name="Choc menu dance idle0021" x="488" y="2324" width="488" height="568" frameX="0" frameY="0" frameWidth="488" frameHeight="568" />
+<SubTexture name="Choc menu dance idle0022" x="976" y="2324" width="488" height="568" frameX="0" frameY="0" frameWidth="488" frameHeight="568" />
+<SubTexture name="Choc menu dance idle0023" x="1464" y="2324" width="488" height="568" frameX="0" frameY="0" frameWidth="488" frameHeight="568" />
+<SubTexture name="Choc menu dance idle0024" x="1952" y="2324" width="533" height="620" frameX="0" frameY="0" frameWidth="533" frameHeight="620" />
+</TextureAtlas>
