@@ -7,7 +7,7 @@ class MenuCharacter extends FlxSprite
 {
 	public var character:String;
 
-	public function new(x:Float, character:String = 'dad')
+	public function new(x:Float, character:String = 'choc')
 	{
 		super(x);
 
@@ -16,7 +16,7 @@ class MenuCharacter extends FlxSprite
 		var tex = Paths.getSparrowAtlas('chocMenuDance');
 		frames = tex;
 
-		animation.addByPrefix('dad', "Choc menu dance idle", 24);
+		animation.addByPrefix('choc', "Choc menu dance idle", 24);
 		// Parent Christmas Idle
 
 		animation.play(character);
